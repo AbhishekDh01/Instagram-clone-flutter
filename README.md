@@ -1,16 +1,14 @@
 # Instagram Clone by Flutter 
 
-Include both frontend and backend.
+Fully functional Instagram clone app developed using Flutter and Google Firebase. With both Frontend and Backend.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+1. Sing-in and Sign-up Using email id.
+2. Post Photos using gallery or Camera.
+3. like feature on Posts.
+4. Full Instagram UI.
+5. Image grid feature on Search.
+6. Shows all registered Users, their Profile and Posts.
+7. Follow/Unfollow feature.
+8. Profile updation and forget password feature.
+9. Chatting feature would be added soon.
