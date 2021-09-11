@@ -1,3 +1,4 @@
+![IMG_20210911_185538](https://user-images.githubusercontent.com/75718742/132949598-9aa26d57-0314-4f93-b207-0dbf4f437e5d.jpg)
 # Instagram Clone by Flutter 
 
 Fully functional Instagram clone app developed using Flutter and Google Firebase. With both Frontend and Backend.
