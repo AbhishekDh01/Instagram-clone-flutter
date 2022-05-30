@@ -6,7 +6,7 @@ Apk : [Insta_clone](https://github.com/AbhishekDh01/Instagram-clone-flutter/blob
 
 ## Features
 1. Sing-in and Sign-up using email id.
-2. Post hhotos using gallery or camera.
+2. Post photos using gallery or camera.
 3. like feature on posts.
 4. Full Instagram UI.
 5. Image grid feature on search.
